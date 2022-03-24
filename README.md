@@ -3,8 +3,7 @@ Projet 2021 L3 sur les grammaires/automates:
 Language utilisé: Python
 
 
-Partie1:fichier partie1
-Contenu: Les grammaires
+Partie1:fichier partie1.py
 
 ------------------------------------------------------------------
 
@@ -13,8 +12,7 @@ Contenu: Les grammaires
 
 ------------------------------------------------------------------
 
-Partie2: fichier partie2
-Contenu: Les grammaires/ automates
+Partie2: fichier partie2.py
 
 ------------------------------------------------------------------
 
