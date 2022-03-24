@@ -7,7 +7,7 @@ Partie1:fichier partie1.py
 
 ------------------------------------------------------------------
 
--->Detection de grammaires régulières/droite/gauche
+-->Detection de grammaires régulières/droites/gauches
 -->implémentation de grammaires
 
 ------------------------------------------------------------------
